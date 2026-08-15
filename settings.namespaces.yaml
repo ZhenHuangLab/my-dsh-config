@@ -3,7 +3,7 @@ kind: dsh-sync.settings
 namespaces:
   agent-default-model:
     user:
-      model: deepseek-v4-flash
+      model: deepseek-v4-pro
       provider: deepseek-official
       reasoningEffort: max
   llm-pi-ai:
