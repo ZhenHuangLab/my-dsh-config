@@ -1,7 +1,12 @@
 .credentials.yaml
 .anonymous-user-id
+.env
+.env.*
+*.lock
+*.tmp
 sessions/
 storages/
-profiles/**/node_modules/
-.DS_Store
-*.swp
+node_modules/
+.pnpm/
+.dsh-sync/
+cordis.yml
