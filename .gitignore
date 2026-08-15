@@ -1,0 +1,7 @@
+.credentials.yaml
+.anonymous-user-id
+sessions/
+storages/
+profiles/**/node_modules/
+.DS_Store
+*.swp
