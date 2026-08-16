@@ -6,7 +6,7 @@
     "dsh-at-file": "https://github.com/omdsh-dev/dsh-at-file/archive/refs/tags/v0.6.0.tar.gz",
     "dsh-better-sidebar": "^0.12.1",
     "dsh-message-edit": "^0.2.2",
-    "dsh-sync": "^0.1.3",
+    "dsh-sync": "link:/root/dsh-sync",
     "dshmarket": "^1.3.0"
   },
   "dsh": {

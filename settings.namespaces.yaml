@@ -6,6 +6,7 @@ namespaces:
       model: deepseek-v4-pro
       provider: deepseek-official
       reasoningEffort: max
+  agent-presets: {}
   llm-pi-ai:
     user:
       providers:
